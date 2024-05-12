@@ -42,7 +42,7 @@ const phoneId = useId();
               <Field id={phoneId} className={css.input} name="number" type="tel" />
                <ErrorMessage className={css.error} name="number" component="span" />
 
-              <button className={css.btn} type="submit">Add contact</button>
+              <button className={css.btn} type="submit" >Add contact</button>
         </Form>
       </Formik>
   )
