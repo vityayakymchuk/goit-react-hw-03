@@ -21,14 +21,12 @@ ol {
 }
 
 a {
-  color: currentColor;
   text-decoration: none;
 }
 
 button {
   cursor: pointer;
   font-family: inherit;
-  color: currentColor;
   padding: 0;
   line-height: 0;
 }
@@ -75,6 +73,5 @@ body {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  background-color: var(--color-dark);
   padding: 20px;
 }
